@@ -1,10 +1,8 @@
-# Nabi Rahmani · [CodeWithNabi](https://www.codewithnabi.dev)
+# Muhammad Nabi Rahmani
 
-<p align="left">
-  Flutter engineer · Ankara · Available for freelance & full-time remote
-</p>
+**Flutter Developer** · [CodeWithNabi](https://www.codewithnabi.dev)
 
-I build **thoughtful Flutter products** with calm interfaces, **local-first** foundations, and **production architecture**.
+Experienced in building efficient, scalable mobile apps with **Flutter**, **Dart**, **Firebase**, **Supabase**, and **Riverpod**.
 
 <p>
   <a href="https://www.codewithnabi.dev">Website</a> ·
@@ -15,11 +13,22 @@ I build **thoughtful Flutter products** with calm interfaces, **local-first** fo
 
 ---
 
-## ⭐ Featured open source
+### 👨‍💻 About me
 
-### [FlexLedger](https://github.com/Nabi-Rahmani/flexledger)
+I craft performant Flutter products with a focus on clean architecture, calm UI, and experiences that work offline-first when it matters.
 
-**Offline-first multi-business bookkeeping** for freelancers & small businesses.
+- **Architecture:** Feature-first Clean Architecture, MVVM  
+- **State:** Riverpod  
+- **Backend:** Firebase, Supabase, REST  
+- **UI/UX:** Material Design, thoughtful motion  
+
+Based in **İstanbul** · Available for freelance & full-time remote.
+
+---
+
+## ⭐ Featured open source — FlexLedger
+
+**[FlexLedger](https://github.com/Nabi-Rahmani/flexledger)** — offline-first multi-business bookkeeping for freelancers & small businesses.
 
 Flutter · Feature-first Clean Architecture · Riverpod · Drift
 
@@ -32,45 +41,24 @@ git clone https://github.com/Nabi-Rahmani/flexledger.git
 cd flexledger && flutter pub get && flutter run
 ```
 
-→ [**github.com/Nabi-Rahmani/flexledger**](https://github.com/Nabi-Rahmani/flexledger)
-
 ---
 
 ## 📱 Shipped apps
 
 | App | What it is | Links |
 |-----|------------|--------|
-| **FlexLedger** | Offline-first bookkeeping | [Repo](https://github.com/Nabi-Rahmani/flexledger) · [Site](https://www.codewithnabi.dev) |
+| **FlexLedger** | Offline-first bookkeeping | [Repo](https://github.com/Nabi-Rahmani/flexledger) |
 | **Focus Flow** | Calm focus timer for deep work | [Repo](https://github.com/Nabi-Rahmani/FocusFlow) · [Page](https://www.codewithnabi.dev/projects/focus-flow) |
 | **Dev Discipline** | Habits & consistency for builders | [Repo](https://github.com/Nabi-Rahmani/Dev-Discipline.dev) · [Page](https://www.codewithnabi.dev/projects/dev-discipline) |
 | **Raha** | Islamic companion for daily worship | [Page](https://www.codewithnabi.dev/projects/mihrab-by-raha) |
 
-All details: [codewithnabi.dev/projects](https://www.codewithnabi.dev/projects)
-
----
-
-## 🛠️ How I build
-
-1. **Quiet by design** — interfaces that reduce effort  
-2. **Local-first foundations** — core flows work without the network  
-3. **Built to ship** — architecture, polish, and store readiness as one problem  
-
-**Stack I use daily:** Flutter · Dart · Riverpod · Drift · Clean Architecture · go_router  
-
-**Writing:** [Feature-First Clean Architecture](https://www.codewithnabi.dev/blog/flutter-clean-architecture-feature-first) · [Riverpod guide](https://www.codewithnabi.dev/blog/riverpod-flutter-state-management-guide) · [All articles](https://www.codewithnabi.dev/blog)
+More: [codewithnabi.dev/projects](https://www.codewithnabi.dev/projects)
 
 ---
 
 ## 📫 Connect
 
-- **Web:** [codewithnabi.dev](https://www.codewithnabi.dev)  
+- **Website:** [codewithnabi.dev](https://www.codewithnabi.dev)  
 - **Email:** [codewithnabi@gmail.com](mailto:codewithnabi@gmail.com)  
 - **X:** [@nabirahmani_dev](https://x.com/nabirahmani_dev)  
 - **LinkedIn:** [Muhammad Nabi Rahmani](https://www.linkedin.com/in/muhammad-nabi-rahmani-8945b21ba/)  
-
----
-
-<p align="center">
-  <i>Let’s build something considered.</i><br/>
-  <a href="https://www.codewithnabi.dev">codewithnabi.dev</a>
-</p>
