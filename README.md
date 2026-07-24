@@ -1,45 +1,76 @@
-# Nabi Rahmani
-## Flutter Developer | Mobile App Specialist
+# Nabi Rahmani · [CodeWithNabi](https://www.codewithnabi.dev)
 
-### 👨‍💻 About Me
-Passionate Flutter developer crafting pixel-perfect, performant mobile applications. With a keen eye for design and a love for clean code, I transform ideas into seamless cross-platform experiences.
+<p align="left">
+  Flutter engineer · Ankara · Available for freelance & full-time remote
+</p>
 
-### 🛠️ Technical Arsenal
-- **Framework**: Flutter & Dart
-- **Architecture**: Clean Architecture, MVVM, BLoC Pattern
-- **State Management**: Riverpod, Provider
-- **Backend Integration**: RESTful APIs, Firebase
-- **Version Control**: Git & GitHub
-- **UI/UX**: Material Design, Custom Animations
+I build **thoughtful Flutter products** with calm interfaces, **local-first** foundations, and **production architecture**.
 
-### 🚀 What I Do
-- Build scalable and maintainable mobile applications
-- Create responsive and adaptive UI designs
-- Implement complex state management solutions
-- Optimize app performance and user experience
-- Collaborate with teams using agile methodologies
+<p>
+  <a href="https://www.codewithnabi.dev">Website</a> ·
+  <a href="https://www.codewithnabi.dev/projects">Projects</a> ·
+  <a href="https://www.codewithnabi.dev/blog">Blog</a> ·
+  <a href="mailto:codewithnabi@gmail.com">Contact</a>
+</p>
 
-### 🌟 Current Focus
-- Exploring advanced Flutter animations
-- Mastering clean architecture patterns
-- Contributing to open-source Flutter projects
-- Building innovative mobile solutions
+---
 
-### 🎯 Goals
-- Pushing the boundaries of mobile development
-- Creating impact through technology
-- Sharing knowledge with the Flutter community
-- Continuous learning and improvement
+## ⭐ Featured open source
 
-### 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/muhammad-nabi-rahmani-8945b21ba/]
-- Twitter: [https://x.com/nabirahmani_dev]
-- Email: [nabirahmani.dev@gmail.com]
-- Medium: [https://medium.com/@nabi_rahmani]
+### [FlexLedger](https://github.com/Nabi-Rahmani/flexledger)
 
-### 💡 Fun Fact
-When I'm not coding, you'll find me [interesting hobby/activity] or exploring new Flutter packages to enhance my development toolkit.
+**Offline-first multi-business bookkeeping** for freelancers & small businesses.
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+Flutter · Feature-first Clean Architecture · Riverpod · Drift
 
-#FlutterDev #MobileApps #SoftwareDevelopment #CrossPlatform #DartLang
+- Multi-business & multi-currency  
+- Ledger, reports, backup & restore  
+- PIN / biometric lock · dark mode · localization  
+
+```bash
+git clone https://github.com/Nabi-Rahmani/flexledger.git
+cd flexledger && flutter pub get && flutter run
+```
+
+→ [**github.com/Nabi-Rahmani/flexledger**](https://github.com/Nabi-Rahmani/flexledger)
+
+---
+
+## 📱 Shipped apps
+
+| App | What it is | Links |
+|-----|------------|--------|
+| **FlexLedger** | Offline-first bookkeeping | [Repo](https://github.com/Nabi-Rahmani/flexledger) · [Site](https://www.codewithnabi.dev) |
+| **Focus Flow** | Calm focus timer for deep work | [Repo](https://github.com/Nabi-Rahmani/FocusFlow) · [Page](https://www.codewithnabi.dev/projects/focus-flow) |
+| **Dev Discipline** | Habits & consistency for builders | [Repo](https://github.com/Nabi-Rahmani/Dev-Discipline.dev) · [Page](https://www.codewithnabi.dev/projects/dev-discipline) |
+| **Raha** | Islamic companion for daily worship | [Page](https://www.codewithnabi.dev/projects/mihrab-by-raha) |
+
+All details: [codewithnabi.dev/projects](https://www.codewithnabi.dev/projects)
+
+---
+
+## 🛠️ How I build
+
+1. **Quiet by design** — interfaces that reduce effort  
+2. **Local-first foundations** — core flows work without the network  
+3. **Built to ship** — architecture, polish, and store readiness as one problem  
+
+**Stack I use daily:** Flutter · Dart · Riverpod · Drift · Clean Architecture · go_router  
+
+**Writing:** [Feature-First Clean Architecture](https://www.codewithnabi.dev/blog/flutter-clean-architecture-feature-first) · [Riverpod guide](https://www.codewithnabi.dev/blog/riverpod-flutter-state-management-guide) · [All articles](https://www.codewithnabi.dev/blog)
+
+---
+
+## 📫 Connect
+
+- **Web:** [codewithnabi.dev](https://www.codewithnabi.dev)  
+- **Email:** [codewithnabi@gmail.com](mailto:codewithnabi@gmail.com)  
+- **X:** [@nabirahmani_dev](https://x.com/nabirahmani_dev)  
+- **LinkedIn:** [Muhammad Nabi Rahmani](https://www.linkedin.com/in/muhammad-nabi-rahmani-8945b21ba/)  
+
+---
+
+<p align="center">
+  <i>Let’s build something considered.</i><br/>
+  <a href="https://www.codewithnabi.dev">codewithnabi.dev</a>
+</p>
